@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/sarhadin/public_html/
+    - export DEPLOYPATH=/home2/sarhadin/public_html/lawschool
     - /bin/cp * $DEPLOYPATH
